@@ -1,0 +1,4 @@
+Move R1, true
+Move R2, 1
+Add 6, R1
+Output R1
